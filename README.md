@@ -1,3 +1,9 @@
+# Instalação do tailwindcss 
+npm install -D tailwindcss postcss autoprefixer
+
+# Criar o arquivo de configuração Tailwind CSS: tailwind.config.js
+npx tailwindcss init
+
 # TwAula
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
